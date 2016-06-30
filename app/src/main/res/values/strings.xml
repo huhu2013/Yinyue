@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yinyue</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_zhuce">Zhuce</string>
+    <string name="title_activity_denglu">Denglu</string>
+    <string name="title_activity_shengfenzhuce">Shengfenzhuce</string>
+    <string name="title_activity_yinyue">YinyueActivity</string>
+</resources>
